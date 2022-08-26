@@ -1,0 +1,17 @@
+1. git Hub:
+
+
+
+#include <stdio.h>
+
+int main() {
+   int a=100;
+   int b=13;
+   int add,sub,div;
+   add=a+b;
+   sub=a-b;
+   div=a/b;
+    printf("%d %d %d",add,sub,div);
+
+    return 0;
+}
